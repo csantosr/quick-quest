@@ -2,13 +2,21 @@
 
 To run this project:
 
-```git clone https://github.com/csantosr/quick-quest.git```
+```
+git clone https://github.com/csantosr/quick-quest.git
+```
 
-```cd quick-quest```
+```
+cd quick-quest
+```
 
-```npm install```
+```
+npm install
+```
 
-```npm run dev```
+```
+npm run dev
+```
 
 ## Expanding the ESLint configuration
 
